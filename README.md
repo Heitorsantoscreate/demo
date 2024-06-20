@@ -16,4 +16,4 @@ tambem modifiquei o application.properties para fazer o h2 o data e o apa funcio
 fiz uma tabela import.sql é coloquei os import das informacoes do usuario/banco.
 
 indo pra parte do Swagger utilizei o site https://springdoc.org/ para pegar as dependencies do OpenAPI/Swegger feito isso fui ao pom.xml e as coloquei 
-com isso temos esse acesso: http://localhost:8080/swagger-ui.html onde podemos ver o end point documentado.
+,com isso temos esse acesso: http://localhost:8080/swagger-ui.html onde podemos ver o end point documentado.
